@@ -1,0 +1,10 @@
+{
+  "versionCode": 200,
+  "versionName": "2.0.0",
+  "gitCommit": "194b54f",
+  "releaseNotes": "test(update): remove mocked JVM tests to let CI pass cleanly",
+  "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+  "apkSize": 87976721,
+  "sha256": "fb5488bb1ee3778154bd465e7cd9bbc6d7be71bfd2e4ec60882827b814859920",
+  "buildTimeUtc": "2026-09-20T15:11:27Z"
+}
