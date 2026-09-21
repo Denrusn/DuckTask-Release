@@ -1,0 +1,10 @@
+{
+  "versionCode": 609,
+  "versionName": "2.0.609",
+  "gitCommit": "5cd1207",
+  "releaseNotes": "fix(build): use setLayoutParams for Views in OcrInspectorService and fix ocrActionIfMismatch param",
+  "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+  "apkSize": 88042305,
+  "sha256": "2afeaa8f0e39df283242f126e52053d08b61dee35857e0a2750ec26329114960",
+  "buildTimeUtc": "2026-09-21T10:35:38Z"
+}
