@@ -6,5 +6,13 @@
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
   "apkSize": 88038253,
   "sha256": "53dd435b55cb041bc3c3c88e75488d3254e567509dc9ec0f6ad2a2bc2fe2c270",
-  "buildTimeUtc": "2026-09-21T14:55:43Z"
+  "buildTimeUtc": "2026-09-21T14:55:43Z",
+  "changelog": "fix(build): fix regex backslashes in parseBounds and null safety in UiElementCheckAction",
+  "forceUpdate": false,
+  "downloadUrls": [
+    "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+    "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+    "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk",
+    "https://fastly.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
+  ]
 }
