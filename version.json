@@ -1,10 +1,10 @@
 {
-  "versionCode": 200,
-  "versionName": "2.0.0",
-  "gitCommit": "46c9b99",
-  "releaseNotes": "feat(automation): enhance ScreenOcrAction with polling, auto-tap coordinate and branch actions",
+  "versionCode": 1,
+  "versionName": "2.0.1",
+  "gitCommit": "a130640",
+  "releaseNotes": "fix(update): correct update URLs to DuckTask-Release and enable dynamic versionCode by commit count",
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-  "apkSize": 87997201,
-  "sha256": "0695376e60e16bab26334e155c1ce0c874c040c23ff15591214dae105aff8a47",
-  "buildTimeUtc": "2026-09-21T04:18:58Z"
+  "apkSize": 87997205,
+  "sha256": "a8404b13b02a276a4540051d3bb0a1e05d1423aced4e52a9bda2b87e83376753",
+  "buildTimeUtc": "2026-09-21T04:38:23Z"
 }
