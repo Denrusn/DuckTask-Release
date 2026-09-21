@@ -1,16 +1,10 @@
 {
-  "versionCode": 615,
-  "versionName": "2.0.615",
-  "gitCommit": "08ac4d6",
-  "releaseNotes": "chore: sync update.json on master branch with 614",
+  "versionCode": 616,
+  "versionName": "2.0.616",
+  "gitCommit": "e5f042c",
+  "releaseNotes": "fix: add downloadUrls and changelog to update.json on master",
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
   "apkSize": 88038257,
-  "sha256": "d3153497cde91098cb8972c10eee8ba2d89a1857700154ccfc12cad9bb0898bd",
-  "buildTimeUtc": "2026-09-21T15:52:07Z",
-  "downloadUrls": [
-    "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-    "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-    "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
-  ],
-  "changelog": "chore: sync update.json on master branch with 614"
+  "sha256": "1fd5a77b351c5f2a04f31662471b66ddd407c1586303edd212ace59b74e0d286",
+  "buildTimeUtc": "2026-09-21T16:21:16Z"
 }
