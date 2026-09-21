@@ -1,10 +1,10 @@
 {
-  "versionCode": 1,
-  "versionName": "2.0.1",
-  "gitCommit": "a130640",
-  "releaseNotes": "fix(update): correct update URLs to DuckTask-Release and enable dynamic versionCode by commit count",
+  "versionCode": 601,
+  "versionName": "2.0.601",
+  "gitCommit": "e13764d",
+  "releaseNotes": "fix(ci): set fetch-depth: 0 in checkout to accurately count commit version",
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-  "apkSize": 87997205,
-  "sha256": "a8404b13b02a276a4540051d3bb0a1e05d1423aced4e52a9bda2b87e83376753",
-  "buildTimeUtc": "2026-09-21T04:38:23Z"
+  "apkSize": 87997209,
+  "sha256": "ffb6e6856260bb2f4bf534b8b8504b47b2342757613b15990c4a72b307c3ce58",
+  "buildTimeUtc": "2026-09-21T04:48:27Z"
 }
