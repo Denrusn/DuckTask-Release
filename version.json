@@ -1,10 +1,10 @@
 {
-  "versionCode": 601,
-  "versionName": "2.0.601",
-  "gitCommit": "e13764d",
-  "releaseNotes": "fix(ci): set fetch-depth: 0 in checkout to accurately count commit version",
+  "versionCode": 609,
+  "versionName": "2.0.609",
+  "gitCommit": "5cd1207",
+  "releaseNotes": "fix(build): use setLayoutParams for Views in OcrInspectorService and fix ocrActionIfMismatch param",
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-  "apkSize": 87997209,
-  "sha256": "ffb6e6856260bb2f4bf534b8b8504b47b2342757613b15990c4a72b307c3ce58",
-  "buildTimeUtc": "2026-09-21T04:48:27Z"
+  "apkSize": 88042305,
+  "sha256": "2afeaa8f0e39df283242f126e52053d08b61dee35857e0a2750ec26329114960",
+  "buildTimeUtc": "2026-09-21T10:35:38Z"
 }
