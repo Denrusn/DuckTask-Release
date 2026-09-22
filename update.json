@@ -1,17 +1,18 @@
 {
-  "versionCode": 615,
-  "versionName": "2.0.615",
-  "gitCommit": "f233aac",
-  "releaseNotes": "fix(build): fix regex backslashes in parseBounds and null safety in UiElementCheckAction",
-  "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-  "apkSize": 88038253,
-  "sha256": "53dd435b55cb041bc3c3c88e75488d3254e567509dc9ec0f6ad2a2bc2fe2c270",
-  "buildTimeUtc": "2026-09-21T14:55:43Z",
-  "changelog": "\u4fee\u590d\u60ac\u6d6e\u7a97\u5173\u95ed\u95ea\u9000\u53ca\u63a7\u4ef6ID\u6293\u53d6",
+  "versionCode": 616,
+  "versionName": "2.0.616",
+  "gitCommit": "e5f042c",
+  "releaseNotes": "修复更新检测兼容性、悬浮窗关闭闪退及UI元素ID嗅探",
+  "changelog": "1. 修复悬浮窗关闭与元素探测闪退\n2. 支持精准提取原生控件 resource-id\n3. 优化应用内自动更新与国内多镜像源下载",
   "forceUpdate": false,
+  "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
   "downloadUrls": [
     "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-    "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
-  ]
+    "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk",
+    "https://fastly.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
+  ],
+  "apkSize": 88038257,
+  "sha256": "1fd5a77b351c5f2a04f31662471b66ddd407c1586303edd212ace59b74e0d286",
+  "buildTimeUtc": "2026-09-21T16:21:16Z"
 }
