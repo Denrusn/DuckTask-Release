@@ -1,18 +1,18 @@
 {
-  "versionCode": 616,
-  "versionName": "2.0.616",
-  "gitCommit": "e5f042c",
-  "releaseNotes": "修复更新检测兼容性、悬浮窗关闭闪退及UI元素ID嗅探",
-  "changelog": "1. 修复悬浮窗关闭与元素探测闪退\n2. 支持精准提取原生控件 resource-id\n3. 优化应用内自动更新与国内多镜像源下载",
-  "forceUpdate": false,
-  "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+  "versionCode": 617,
+  "versionName": "2.0.617",
   "downloadUrls": [
     "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk",
     "https://fastly.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
   ],
-  "apkSize": 88038257,
-  "sha256": "1fd5a77b351c5f2a04f31662471b66ddd407c1586303edd212ace59b74e0d286",
-  "buildTimeUtc": "2026-09-21T16:21:16Z"
+  "sha256": "18d7270dd4960a33151a87339f2e0bb00233bf4cddfe1a335636dff3a31ad663",
+  "changelog": "fix(update): fix version metadata format for legacy clients and strengthen update download engine",
+  "forceUpdate": false,
+  "gitCommit": "5cf0333",
+  "releaseNotes": "fix(update): fix version metadata format for legacy clients and strengthen update download engine",
+  "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+  "apkSize": 88038249,
+  "buildTimeUtc": "2026-09-22T02:45:38Z"
 }
