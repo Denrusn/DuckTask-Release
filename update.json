@@ -1,18 +1,18 @@
 {
-  "versionCode": 621,
-  "versionName": "2.0.621",
+  "versionCode": 623,
+  "versionName": "2.0.623",
   "downloadUrls": [
     "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk",
     "https://fastly.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
   ],
-  "sha256": "e107730b0c7beec2c9eccaf6bcb81cdddc191e2dac0ffe0a647cfa04b3ff52b7",
-  "changelog": "fix(build): add ExperimentalLayoutApi opt-in and import ChevronRight icon",
+  "sha256": "4141c067016beea4d232550c565afebfd7c91e3a117f74627bae331fe6f16429",
+  "changelog": "fix(build): avoid layoutParams shadow in showSelectedNodeBottomCard",
   "forceUpdate": false,
-  "gitCommit": "b000d50",
-  "releaseNotes": "fix(build): add ExperimentalLayoutApi opt-in and import ChevronRight icon",
+  "gitCommit": "858340f",
+  "releaseNotes": "fix(build): avoid layoutParams shadow in showSelectedNodeBottomCard",
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
   "apkSize": 88058737,
-  "buildTimeUtc": "2026-09-23T07:22:04Z"
+  "buildTimeUtc": "2026-09-23T09:00:26Z"
 }
