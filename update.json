@@ -2,17 +2,17 @@
   "versionCode": 617,
   "versionName": "2.0.617",
   "downloadUrls": [
-    "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-    "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk",
-    "https://fastly.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+    "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk"
   ],
   "sha256": "18d7270dd4960a33151a87339f2e0bb00233bf4cddfe1a335636dff3a31ad663",
   "changelog": "fix(update): fix version metadata format for legacy clients and strengthen update download engine",
   "forceUpdate": false,
   "gitCommit": "5cf0333",
   "releaseNotes": "fix(update): fix version metadata format for legacy clients and strengthen update download engine",
-  "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+  "apkUrl": "https://ghfast.top/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
   "apkSize": 88038249,
   "buildTimeUtc": "2026-09-22T02:45:38Z"
 }
