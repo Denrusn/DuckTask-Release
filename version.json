@@ -3,10 +3,9 @@
   "versionName": "2.0.631",
   "downloadUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-    "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-    "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk",
-    "https://fastly.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
+    "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
+    "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
   ],
   "sha256": "b444f335c65092a9fec670693f0b2958ee610a334e905fd1826e591d58108083",
   "changelog": "fix(editor): fix checkmark icon unresponsiveness by resetting editingActionId on confirm and add big bottom save button",
