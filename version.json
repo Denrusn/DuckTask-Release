@@ -1,18 +1,18 @@
 {
-  "versionCode": 631,
-  "versionName": "2.0.631",
+  "versionCode": 632,
+  "versionName": "2.0.632",
   "downloadUrls": [
     "https://ghfast.top/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
   ],
-  "sha256": "b444f335c65092a9fec670693f0b2958ee610a334e905fd1826e591d58108083",
-  "changelog": "fix(editor): fix checkmark icon unresponsiveness by resetting editingActionId on confirm and add big bottom save button",
+  "sha256": "81def69efde2985e2f06ae2485a55b90f594c47134ad07b0cb91b7f8637b81f1",
+  "changelog": "perf(update): prioritize ghfast.top acceleration mirror for both update checking and apk downloads",
   "forceUpdate": false,
-  "gitCommit": "5eb1d4c",
-  "releaseNotes": "fix(editor): fix checkmark icon unresponsiveness by resetting editingActionId on confirm and add big bottom save button",
+  "gitCommit": "d563178",
+  "releaseNotes": "perf(update): prioritize ghfast.top acceleration mirror for both update checking and apk downloads",
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
   "apkSize": 88062833,
-  "buildTimeUtc": "2026-09-24T08:13:45Z"
+  "buildTimeUtc": "2026-09-24T08:43:11Z"
 }
