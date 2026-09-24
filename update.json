@@ -1,18 +1,18 @@
 {
-  "versionCode": 630,
-  "versionName": "2.0.630",
+  "versionCode": 631,
+  "versionName": "2.0.631",
   "downloadUrls": [
     "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk",
     "https://fastly.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
   ],
-  "sha256": "13904c82940698e116f5681721e999c6a12811e86482f99b37c6785c9ae8068a",
-  "changelog": "feat: redesign element check detail page with clean IF-THEN-ELSE natural card flow and flexible branches",
+  "sha256": "b444f335c65092a9fec670693f0b2958ee610a334e905fd1826e591d58108083",
+  "changelog": "fix(editor): fix checkmark icon unresponsiveness by resetting editingActionId on confirm and add big bottom save button",
   "forceUpdate": false,
-  "gitCommit": "7436da5",
-  "releaseNotes": "feat: redesign element check detail page with clean IF-THEN-ELSE natural card flow and flexible branches",
+  "gitCommit": "5eb1d4c",
+  "releaseNotes": "fix(editor): fix checkmark icon unresponsiveness by resetting editingActionId on confirm and add big bottom save button",
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
   "apkSize": 88062833,
-  "buildTimeUtc": "2026-09-24T07:34:09Z"
+  "buildTimeUtc": "2026-09-24T08:13:45Z"
 }
