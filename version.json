@@ -1,18 +1,18 @@
 {
-  "versionCode": 629,
-  "versionName": "2.0.629",
+  "versionCode": 630,
+  "versionName": "2.0.630",
   "downloadUrls": [
     "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://ghproxy.net/https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
     "https://cdn.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk",
     "https://fastly.jsdelivr.net/gh/Denrusn/DuckTask-Release@main/release/DuckTask-latest.apk"
   ],
-  "sha256": "aa811d0d5b61b703c45b5d99c0742681f4e58cb7f42147c12840d5a3ef45330f",
-  "changelog": "fix(build): fix domain model and util package imports in ui element detail page",
+  "sha256": "13904c82940698e116f5681721e999c6a12811e86482f99b37c6785c9ae8068a",
+  "changelog": "feat: redesign element check detail page with clean IF-THEN-ELSE natural card flow and flexible branches",
   "forceUpdate": false,
-  "gitCommit": "c9e205b",
-  "releaseNotes": "fix(build): fix domain model and util package imports in ui element detail page",
+  "gitCommit": "7436da5",
+  "releaseNotes": "feat: redesign element check detail page with clean IF-THEN-ELSE natural card flow and flexible branches",
   "apkUrl": "https://raw.githubusercontent.com/Denrusn/DuckTask-Release/main/release/DuckTask-latest.apk",
-  "apkSize": 88054641,
-  "buildTimeUtc": "2026-09-23T10:09:31Z"
+  "apkSize": 88062833,
+  "buildTimeUtc": "2026-09-24T07:34:09Z"
 }
